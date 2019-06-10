@@ -4,7 +4,7 @@ class Greeter {
 
     constructor(message: string) {
         this.greeting = message;
-        this.aNumber = 112233;
+        this.aNumber = 11223344;
     }
     greet() {
         return "Hello, " + this.greeting;
